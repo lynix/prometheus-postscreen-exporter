@@ -29,3 +29,9 @@ jobs:
 
     - name: Build
       run: make
+
+    - name: Archive build artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: prometheus-postscreen-exporter
+        path: prometheus-postscreen-exporter
