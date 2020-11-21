@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![CI Build](https://github.com/lynix/prometheus-postscreen-exporter/workflows/CI%20Build/badge.svg?branch=master)](https://github.com/lynix/prometheus-postscreen-exporter/actions)
 
+![Grafana Widget](https://github.com/lynix/prometheus-postscreen-exporter/blob/master/grafana.png)
 
 ## Summary
 
